@@ -3,8 +3,8 @@
 A Secure decent chat app with encryption!
 
 <br><br>
-<img style="width: 22%" src="preview2.jpg"/>
-<img style="width: 22%" src="preview2.jpg"/>
+<img style="width: 35%" src="preview2.jpg"/>
+<img style="width: 35%" src="preview2.jpg"/>
 
 ## Features
 
